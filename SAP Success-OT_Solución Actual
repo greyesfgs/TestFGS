@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T20:38:57.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="ph_HtAqEYaWtnv-PpsFu" version="15.9.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-07T20:39:32.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="ukc0k3M2cI6nHP4YGskk" version="15.9.1" type="github" pages="2">
   <diagram id="orVaGu45IsC4EapI8Fcq" name="SAP SF-OT_Esquema Actual">
     <mxGraphModel dx="868" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -236,7 +236,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sMYMvs4x8CJEl_8O6MD1-2" value="DC FGS - Bogotá1" style="swimlane;" vertex="1" parent="sMYMvs4x8CJEl_8O6MD1-1">
+        <mxCell id="sMYMvs4x8CJEl_8O6MD1-2" value="FGS - DC Bogotá1" style="swimlane;" vertex="1" parent="sMYMvs4x8CJEl_8O6MD1-1">
           <mxGeometry x="201" y="301" width="799" height="369" as="geometry" />
         </mxCell>
         <mxCell id="sMYMvs4x8CJEl_8O6MD1-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Gestión Documental PRD&lt;/font&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;dashed=1;" vertex="1" parent="sMYMvs4x8CJEl_8O6MD1-2">
