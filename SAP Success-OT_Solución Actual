@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T16:04:02.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="lJeqn_jKgiCHkfVnlfko" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T16:05:35.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="MmoXsGhSNZ9QAdGjTuSX" version="15.9.1" type="github">
   <diagram id="orVaGu45IsC4EapI8Fcq" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="26YF8ckXdmHGWuMH8TIf-19" value="&lt;b&gt;Balanceador&lt;/b&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Load_Balancers.svg;" vertex="1" parent="26YF8ckXdmHGWuMH8TIf-1">
           <mxGeometry x="104.5" y="154" width="53" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="26YF8ckXdmHGWuMH8TIf-20" value="&lt;b&gt;Archivos -TIIF&lt;br&gt;20403 Carpetas&lt;br&gt;294GB&lt;br&gt;&lt;/b&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;" vertex="1" parent="26YF8ckXdmHGWuMH8TIf-1">
+          <mxGeometry x="340" y="218" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
